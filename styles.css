@@ -125,7 +125,7 @@ h6{
     color: red;
   }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:440px){
     body,html{
         background-color: white;
         padding:0;
